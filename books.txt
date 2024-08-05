@@ -1,0 +1,190 @@
+253665-sdm-vol-1.pdf
+3000 Solved Problems in Linear Algebra (Schaum Series) (Z-Library).pdf
+4.pdf
+6FT6 Method (samdixon17) (Z-Library).pdf
+A Book of Set Theory (Charles C Pinter) (Z-Library).pdf
+A Concise Introduction to Logic, 13th Edition (Patrick J. Hurley, Lori Watson) (z-lib.org).pdf
+A Philosophy of Software Design ( PDFDrive ).pdf
+Accelerated Linux Core Dump Analysis, Third Edition (Dmitry Vostokov) (Z-Library).pdf
+Advanced API Security OAuth 2.0 And Beyond (Prabath Siriwardena) (z-lib.org).pdf
+advanced-linux-programming.pdf
+Algorithms and Data Structures The Basic Toolbox (Kurt Mehlhorn, Peter Sanders) (z-lib.org).pdf
+Algèbre.pdf
+All the Mathematics You Missed But Need to Know for Graduate School ( PDFDrive ).pdf
+An Advanced Introduction to GnuPG (Ne... (Z-Library).pdf
+An Introduction to GCC - for the GNU Compilers gcc and g++ [Brian Gough].pdf
+An Introduction to Ontology (Nikk Effingham) (Z-Library).pdf
+Analyse 1 Nombres complexes.pdf
+Analyse 1 Nombres réels.tex.pdf
+ar-sual-al7adarah.pdf
+AristotleOrganoncollectedWorks.pdf
+Assembly Language for x86 Processors (6th Edition) (Kip Irvine) (Z-Library).pdf
+Beyond Software Architecture Creating and Sustaining Winning Solutions (Luke Hohmann) (z-lib.org).pdf
+Book of Proof (Edition 3.2) (Richard... (Z-Library).pdf
+books.txt
+Building a Virtual Assistant for Raspberry Pi The practical guide for constructing a voice-controlled virtual assistant (Tanay Pant) (z-lib.org).pdf
+bws_book.pdf
+cali-program.pdf
+Chapter 1 Numeral systems.pdf
+Chapter 2 Coding and representation of data.pdf
+Chapter-3-Boolean-Algebra-and-combinational-logic.pdf
+cheat_sheet_emacs.pdf
+chosen
+Classical Mathematical Logic The Semantic Foundations of Logic ( etc.) (Z-Library).pdf
+Cognitive Load Theory (John Sweller, Paul Ayres, Slava Kalyuga (auth.)) (Z-Library).pdf
+College Algebra (12th Edition) (Margaret L. Lial, John Hornsby etc.) (z-lib.org).pdf
+College Algebra and Trigonometry ( PDFDrive ).pdf
+Computational Complexity (Christos H. Papadimitriou) (z-lib.org).pdf
+Computer Systems_ Digital Design, Fundamentals of Computer Architecture and Assembly Language ( PDFDrive ).pdf
+computer-network.pdf
+Concrete_Mathematics_A_Foundation_for_Co.pdf
+cours suite réelle  de 1er année.pdf
+Crafting Interpreters (Robert Nystrom) (Z-Library).pdf
+Curses.pdf
+debia.sha
+debian-12.6.0-amd64-netinst.iso
+Deep work rules for focused success in a distracted world (Newport, Cal) (z-lib.org).pdf
+Deliberation_2023_2024 (1).pdf
+Dependency Injection Principles, Practices, and Patterns ( PDFDrive ).pdf
+Design Patterns Elements of Reusable Object-Oriented Software (Erich Gamma, Richard Helm, Ralph Johnson etc.) (z-lib.org).pdf
+Designing Web APIs_ Building APIs That Developers Love ( PDFDrive ).pdf
+Digital Zettelkasten Principles, Methods,  Examples (David Kadavy) (Z-Library).pdf
+diode-and-transistors.pdf
+Discipline of Programming.pdf
+Dopamine-Nation-PDF.pdf
+Effective awk Programming Universal Text Processing and Pattern Matching (Arnold Robbins) (z-lib.org).pdf
+Efficiency in Learning Evidence-Based Guidelines to Manage Cognitive Load (Ruth C. Clark, Frank Nguyen, John Sweller) (Z-Library).pdf
+electronic-ch-1.pdf
+electronic-ch-2.pdf
+electronic-ch-3.pdf
+elf_spec.pdf
+elisp-introduction.pdf
+Emploi de temps.pdf
+examps.pdf
+Flatland. A Romance of Many Dimensions (Edwin A. Abbott) (z-lib.org).pdf
+Fonts and Encodings From Advanced Typography to Unicode and Everything in Between (Yannis Haralambous) (z-lib.org).pdf
+Fundamentals of Computer Graphics (Steve Marschner, Peter Shirley) (Z-Library).pdf
+Fundamentals of Database Systems (Ramez Elmasri, Shamkant B. Navathe) (z-lib.org).pdf
+FundPureNotes.pdf
+Furia et al_2014_Loop invariants.pdf
+generics_programming.pdf
+GNU Parallel 2018 (Ole Tange) (Z-Library).pdf
+Gray Hat Hacking The Ethical Hackers Handbook, Sixth Edition (Daniel Regalado, Jonathan Ness, Chris Eagle etc.) (z-lib.org).pdf
+Hackers Heroes of the Computer Revolution (Steven Levy) (z-lib.org).pdf
+Handbook-of-Interactive-Computer-Terminals.pdf
+How to Rap The Art and Science of the Hip-Hop MC (Paul Edwards) (z-lib.org).pdf
+How to Think About Algorithms (Jeff Edmonds) (Z-Library).pdf
+how-to-write-shared-libraries.pdf
+Hugo in Action Static sites and dynamic Jamstack apps (Atishay Jain) (z-lib.org).pdf
+Inside Interesting Integrals (Paul J. Nahin) (Z-Library).pdf
+Introducing Logic A Graphic Guide (Dan Cryan, Sharron Shatil, Bill Mayblin) (Z-Library).pdf
+Introduction to Algebra (the Art of Problem Solving) (Richard Rusczyk) (z-lib.org).pdf
+Introduction to Boolean Algebras (Steven Givant, Paul Halmos) (Z-Library).pdf
+Introduction to Real Analysis (Robert G. Bartle, Donald R. Sherbert) (Z-Library).pdf
+Introduction to the Internet and World Wide Web ( PDFDrive ).pdf
+Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf
+Intuition Knowing Beyond Logic (Osho) (z-lib.org).pdf
+jwt-handbook-v0_14_1.pdf
+Knowledge A Very Short Introduction (Jennifer Nagel) (z-lib.org).pdf
+Language Server Protocol and Implementation Supporting Language-Smart Editing and Programming Tools (Nadeeshaan Gunasinghe, Nipuna Marcus) (z-lib.org).pdf
+Learn C the Hard Way Practical Exercises on the Computational Subjects You Keep Avoiding (Like C) (Zed A. Shaw) (Z-Library).pdf
+Learning Linux Binary Analysis (Ryan elfmaster O’Neill) (Z-Library).pdf
+Learning the bash Shell, 3rd Edition.pdf
+linalgebra.pdf
+Linear Algebra Done Right (Sheldon Jay Axler) (Z-Library).pdf
+Linkers and loaders (Levine, John R) (Z-Library).pdf
+Logic and computer design fundamentals (M. Morris R. Mano, Charles R. Kime, Tom Martin) (Z-Library).pdf
+Logic as a Tool_ A Guide to Formal Logical Reasoning ( PDFDrive ).pdf
+Logic in computer science modelling and reasoning about systems (Michael Huth, Mark Ryan) (z-lib.org).pdf
+Logic Made Easy How to Know When Language Deceives You (Deborah J. Bennett) (z-lib.org).pdf
+logic-gates.pdf
+Logiomix-Russel.pdf
+loop invariant.pdf
+Mastering Emacs (Mickey Petersen) (Z-Library).pdf
+mat67_course_notes.pdf
+Mathematical Induction A powerful and elegant method of proof (Titu Andreescu, Vlad Crisan) (Z-Library).pdf
+Metaphysics A Contemporary Introduction (Michael J. Loux, Thomas M. Crisp) (Z-Library).pdf
+Modern Vim_ Craft Your Development Environment with Vim 8 and Neovim ( PDFDrive ).pdf
+Noor-Book.com  أخبار الحمقى والمغفلين.pdf
+Noor-Book.com  الأبله 1 الأعمال الأدبية الكاملة المجلد 10.pdf
+Noor-Book.com  حقيقة الإباحية.pdf
+Noor-Book.com  شروط النهضة.pdf
+Noor-Book.com  مناهج البحث العلمي.pdf
+number-theory.pdf
+Object-oriented analysis and design with applications (Grady Booch, Robert A. Maksimchuk etc.) (z-lib.org).pdf
+Ontology (Central Problems of Philosophy) (Dale Jacquette) (Z-Library).pdf
+Operating System Concepts (Abraham Silberschatz, Greg Gagne etc.) (z-lib.org).pdf
+Outils_de_programmation_pour_les_mathématiques_Section 1 (1)L1.pdf
+Outils_de_programmation_pour_les_mathématiques_Section 2 (1)L1.pdf
+PGP GPG Email for the Practical Paranoid (Michael W Lucas) (z-lib.org).pdf
+planning exam S2 2023 2024_finale.pdf
+planning rattrapage 2024 S1 pour Etudiants (1).pdf
+Pointers on C (Kenneth Reek) (Z-Library).pdf
+Porn Generation- How Social Liberalism Is Corrupting Our Future (Ben Shapiro) (Z-Library).pdf
+precondition-and-postcondition.pdf
+Principles of Mathematical Analysis (Walter Rudin) (z-lib.org).pdf
+Pro Vim ( PDFDrive ).pdf
+Problems in Mathematical Analysis I Real Numbers, Sequences and Series (W. J. Kaczor, M. T. Nowak) (Z-Library).pdf
+Problems on algorithms (Ian Parberry) (Z-Library).pdf
+progit-en.1084.pdf
+programming in c (4th edition)  - stephen g. kochan(1).pdf
+Programming in C (Stephen G. Kochan) (Z-Library).pdf
+Programming in Lua Second Edition.pdf ( PDFDrive ).pdf
+Programming the World Wide Web ( PDFDrive ).pdf
+ProgrammingGroundUp-0-9.pdf
+Propositional and Predicate Calculus (Derek Goldrei) (Z-Library).pdf
+qiut-smoking-the-easy-way.pdf
+Quiet The Power of Introverts in a World That Cant Stop Talking (Susan Cain) (Z-Library).pdf
+Real Analysis A Long-Form Mathematics Textbook (Jay Cummings) (Z-Library).pdf
+real-analysis-libertex.pdf
+Reasons to Stay Alive (Matt Haig) (Z-Library).pdf
+Redis in Action (Josiah L. Carlson) (z-lib.org).pdf
+Refactoring_ Improving the Design of Existing Code ( PDFDrive ).pdf
+Registers-8051.pdf
+Regular Expressions Pocket Primer (Oswald Campesato) (z-lib.org).pdf
+RESTful Web APIs (Leonard Richardson, Mike Amundsen, Sam Ruby) (z-lib.org).pdf
+Reverse Engineering for Beginner (Dennis Yurichev) (Z-Library).pdf
+Russian in an easy way (Gulnara Useinova) (Z-Library).pdf
+Rust in Action Systems programming concepts and techniques (Timothy Samuel McNamara) (z-lib.org).pdf
+Schaums Outline of Probability and Statistics (John Schiller, R. Alu Srinivasan etc.) (Z-Library).pdf
+Secrets of Mental Math_ The Mathemagician's Guide to Lightning Calculation and Amazing Math Tricks ( PDFDrive ).pdf
+Sed  awk (2nd Edition) (Dale Dougherty, Arnold Robbins) (z-lib.org).pdf
+Set theory and its philosophy a critical introduction (Michael Potter) (z-lib.org).pdf
+Sets, Functions, and Logic_ An Introduction to Abstract Mathematics, Third Edition (Chapman Hall CRC Mathematics Series) ( PDFDrive ).pdf
+Software Modeling and Design UML, Use Cases, Patterns, and Software Architectures (Hassan Gomaa) (z-lib.org).pdf
+Speech and Language Processing An Introduction to Natural Language Processing, Computational Linguistics, and Speech... (Daniel Jurafsky, James H. Martin) (z-lib.org).pdf
+Spying on your programs with strace (Julia Evans) (Z-Library).pdf
+SSH Mastery OpenSSH, PuTTY, Tunnels and Keys (Michael W. Lucas) (z-lib.org).pdf
+Structured Computer Organization (Andrew S. Tanenbaum, Todd Austin) (Z-Library).pdf
+Swellers Cognitive Load Theory in Action (Oliver Lovell, Tom Sherrington) (Z-Library).pdf
+Teach Yourself Electricity and Electronics (Stan Gibilisco) (z-lib.org).pdf
+The Algorithm Design Manual (Steven S. Skiena) (z-lib.org).pdf
+The Ansi C Programming Language (Brian W Kernighan, Dennis M Ritchie) (Z-Library).pdf
+The Architecture of Computer Hardware and System Software ( PDFDrive ).pdf
+The ARRL Handbook for Radio Communications 2019 (ARRL Inc) (Z-Library).pdf
+The Art of Asking ChatGPT for High-Quality Answers A Complete Guide to Prompt Engineering Techniques (Ibrahim John) (Z-Library).pdf
+The Art of Debugging with GDB, DDD, and Eclipse (Norman Matloff, Peter Jay Salzman) (Z-Library).pdf
+The Art of Electronics (3rd Ed.) (Paul Horowitz, Winfield Hill) (Z-Library).pdf
+The Art Of Thinking In Systems Improve Your Logic, Think More Critically, And Use Proven Systems To Solve Your Problems (Steven Schuster) (z-lib.org).pdf
+The Critical Thinking Toolkit (Galen A. Foresman, Peter S. Fosl etc.) (z-lib.org).pdf
+The Four Agreements (Don Miguel Ruiz, Janet Mills) (Z-Library).pdf
+The Mathematical Work of Charles Babbage ( PDFDrive ).pdf
+The Object-Oriented Thought Process (4th Edition) ( PDFDrive ).pdf
+The Oxford Handbook of Philosophy of Mathematics and Logic (Stewart Shapiro) (z-lib.org).pdf
+The Web Application Hacker's Handbook - WordPress.com ( PDFDrive ).pdf
+Theaetetus.pdf
+Theory of Computer Science (Automata, Languages and Computation) Third Edition ( PDFDrive ).pdf
+Think A Compelling Introduction to Philosophy (Simon Blackburn) (Z-Library).pdf
+Thinking Recursively.pdf
+This Is How They Tell Me the World Ends The Cyberweapons Arms Race (Nicole Perlroth) (z-lib.org).pdf
+tmux 2 Productive Mouse-Free Development (Brian P. Hogan) (z-lib.org).pdf
+Ultralearning (Young, Scott H.) (Z-Library).pdf
+Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott Young) (Z-Library).pdf
+VersionControlSystem-AReview.pdf
+Writing GNU Emacs Extensions (Bob Glickstein) (Z-Library).pdf
+ادعية.pdf
+الإنسان المهدور_ دراسة تحليلية نفسية اجتماعية.pdf
+الداء والدواء_.pdf
+المحاورات الكاملة.pdf
+قواعد الثراء - ريتشارد تمبلر.pdf
+كتاب المرتد analyse_compressed.pdf
